@@ -15,7 +15,7 @@
 //   var a = 0;
 // }
 // console.log(a); // Reference Error
-
+// !!!!!!!!!!!!!! Go back to slides !!!!!!!!!!!!!!
 
 
 // function foo(a) {
@@ -122,7 +122,7 @@
 // }
 
 
-
+// !!!!!!!!!!!!!!!!! STRANGER THINGS ZONE !!!!!!!!!!!!!!!!!
 // foo()
 // var a = true
 // if (a) {
@@ -131,7 +131,7 @@
 // else {
 //   function foo() { console.log( 'b' ) }
 // }
-
+// !!!!!!!!!!!!!!!!! STRANGER THINGS ZONE !!!!!!!!!!!!!!!!!
 
 
 /*
@@ -265,9 +265,9 @@
 //   console.log(this.bar, calculatedValue)
 // }
 // foo.call({bar: 'Invoked with "call"'},1,2,3)
-// foo.apply({bar: 'Invoked with "apply"'},[1,2,3])
+// foo.apply({bar: 'Invoked with "apply"'},[4,5,6])
 // const newFoo = foo.bind({bar: 'Created with "bind"'})
-// newFoo(1,2,3)
+// newFoo(7,8,9)
 
 
 
