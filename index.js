@@ -86,7 +86,6 @@
 // }
 
 
-
 // sayHello()
 // var sayHello = function sayHello () {
 //   console.log('Hello')
@@ -102,8 +101,8 @@
 
 
 
-// foo() // TypeError
-// bar() // ReferenceError
+// foo()
+// bar()
 // var foo = function bar() {
 // 	// ...
 // }
