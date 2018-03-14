@@ -14,7 +14,7 @@
 // function foo () {
 //   var a = 0;
 // }
-// console.log(a); // Reference Error
+// console.log(a);
 // !!!!!!!!!!!!!! Go back to slides !!!!!!!!!!!!!!
 
 
