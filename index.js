@@ -88,7 +88,7 @@
 
 
 // sayHello()
-// var sayHello = function () {
+// var sayHello = function sayHello () {
 //   console.log('Hello')
 // }
 
