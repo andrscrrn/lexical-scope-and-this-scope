@@ -149,10 +149,13 @@
 
 
 
-// const name = 'Andres'
+// let name = 'Foo'
 // function sayHello () {
 //   console.log(`Hello ${name}`)
 // }
+// setTimeout(() => {
+//   name = 'Bar'
+// },500)
 // setTimeout(sayHello, 1000)
 
 
